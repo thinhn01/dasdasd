@@ -1,0 +1,36 @@
+{
+  "name": "Vũ Hoàng",
+  "ID": "100078707135891",
+  "pet": [
+    {
+      "name": "Patrat",
+      "type": "Normal",
+      "HP": "45.02.25",
+      "Attack": "55.02.75",
+      "Defense": "39.01.95",
+      "Speed": "42.02.1",
+      "skill": [
+        "Run Away",
+        "Keen Eye",
+        "Analytic"
+      ],
+      "coins": 10500,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/504.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐕𝐞𝐠𝐠𝐢𝐞 𝐒𝐦𝐨𝐨𝐭𝐡𝐢𝐞 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🥗",
+      "type": "Normal",
+      "HP": "4",
+      "Attack": "4",
+      "Defense": "4",
+      "Speed": "4"
+    }
+  ],
+  "solo": {
+    "win": 1,
+    "lose": 0,
+    "draw": 0
+  }
+}

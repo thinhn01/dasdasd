@@ -1,0 +1,18 @@
+{
+    "name": "Phúc Mười Hai",
+    "ID": "100078336361576",
+    "shield": 0,
+    "coins": 687.5,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 31,
+    "timeRegister": "5/1/2022, 6:55:09 PM"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Izayoi Sakamaki",
+    "ID": "100060838425251",
+    "shield": 0,
+    "coins": 156.25,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 19,
+    "timeRegister": "5/1/2022, 7:52:09 PM"
+}

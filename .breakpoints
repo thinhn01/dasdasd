@@ -1,0 +1,28 @@
+{
+  "files": {
+    "FastConfigFca.json": [
+      {
+        "id": "92202efb-4c9e-45b2-8148-4007c5ef1b70",
+        "line": 10,
+        "version": 1,
+        "index": 179
+      }
+    ],
+    "appstate.json": [
+      {
+        "id": "5fc27f30-73b8-42d1-b5c8-8e3cbfc8a72f",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "modules/commands/congthuc.js": [
+      {
+        "id": "bde1cb82-71dd-41e2-8439-ea36257f2a1b",
+        "line": 3,
+        "version": 1,
+        "index": 1133
+      }
+    ]
+  }
+}

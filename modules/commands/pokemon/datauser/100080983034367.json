@@ -1,0 +1,25 @@
+{
+  "name": "Nguyễn CiClick",
+  "ID": "100080983034367",
+  "pet": [
+    {
+      "name": "Rotom",
+      "type": "Electric",
+      "HP": "20.0",
+      "Attack": "20.0",
+      "Defense": "30.8",
+      "Speed": "36.4",
+      "skill": [
+        "Levitate"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/479.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 1
+  }
+}

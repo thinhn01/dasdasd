@@ -1,0 +1,35 @@
+{
+  "name": "Trịnh Đăng Hào",
+  "ID": "100068125583255",
+  "pet": [
+    {
+      "name": "Vileplume",
+      "type": "Grass",
+      "HP": 0,
+      "Attack": 0,
+      "Defense": 0,
+      "Speed": 18.059025000000002,
+      "skill": [
+        "Chlorophyll",
+        "Effect Spore"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/045.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐒𝐥𝐮𝐝𝐠𝐞 𝐒𝐨𝐮𝐩 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🍲",
+      "type": "Grass",
+      "HP": "4",
+      "Attack": "4",
+      "Defense": "4",
+      "Speed": "4"
+    }
+  ],
+  "solo": {
+    "win": 1,
+    "lose": 2,
+    "draw": 1
+  }
+}

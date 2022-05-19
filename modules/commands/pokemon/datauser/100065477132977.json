@@ -1,0 +1,27 @@
+{
+  "name": "Meii Phương :(      ",
+  "ID": "100065477132977",
+  "pet": [
+    {
+      "name": "Gurdurr",
+      "type": "Fighting",
+      "HP": 121.125,
+      "Attack": 149.625,
+      "Defense": 121.125,
+      "Speed": 57,
+      "skill": [
+        "Guts",
+        "Sheer Force",
+        "Iron Fist"
+      ],
+      "coins": 19000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/533.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 1,
+    "draw": 0
+  }
+}

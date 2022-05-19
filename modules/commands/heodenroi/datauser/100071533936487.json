@@ -1,0 +1,18 @@
+{
+    "name": "Vũ Cường",
+    "ID": "100071533936487",
+    "shield": 2,
+    "coins": 3375,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 15,
+    "timeRegister": "5/1/2022, 7:06:07 PM"
+}
